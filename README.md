@@ -21,7 +21,7 @@
 <br>
 
 - A passionate Self-taught developer
-- Tetris/CS:GO grind
+- Tetris/CS grind
 - Currently learning Web Development by Self
 
 <br><br>
