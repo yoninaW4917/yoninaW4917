@@ -1,16 +1,6 @@
 
 <h1 align="center"><b>Hi , I'm Yonina </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
-
-
-- A passionate Self-taught developer
-- Tetris/CS grind
-- Currently learning Web Development by Self
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
 ## <b> Skills</b>
 <br>
 
